@@ -77,6 +77,12 @@ g:ale_perl_perlcritic_showrules               *g:ale_perl_perlcritic_showrules*
   Controls whether perlcritic rule names are shown after the error message.
   Defaults to off to reduce length of message.
 ===============================================================================
+perl language server                                            *ale-perl-plls*
+
+g:ale_perl_plls_config                                 *g:ale_perl_plls_config*
+                                                       *b:ale_perl_plls_config*
+
+===============================================================================
 perltidy                                                    *ale-perl-perltidy*
 
 g:ale_perl_perltidy_options                       *g:ale_perl_perltidy_options*
